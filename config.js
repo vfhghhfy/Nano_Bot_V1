@@ -16,12 +16,12 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['201151094460', '👑 ERIN-MD 👑', true],
+  ['967778668253', '👑 ERIN-MD 👑', true],
 
 ];
 
-global.suittag = ['201151094460'];
-global.prems = ['201151094460'];
+global.suittag = ['967778668253'];
+global.prems = ['967778668253'];
 
 // API
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
